@@ -86,30 +86,30 @@ Deployment steps will be added once the application is ready for a production en
 
 ## Built With
 
-### Frontend:
+Frontend:
 * React.js
 * Material-UI
 * Tailwind (possibly)
 
-### Backend:
+Backend:
 * Node.js
 * Express.js
 * MongoDB
 
-### Authentication and Authorization:
+Authentication and Authorization:
 * Passport.js
 
-### Payments
+Payments
 * Stripe.js
 
-### Learning Platforms
+Learning Platforms
 * ChatGPT
 * Google Search
 
-### Deployment
+Deployment
 * Heroku
 
-### Dev Tools:
+Dev Tools:
 * VS Code
 * Git + Github
 * Docker
