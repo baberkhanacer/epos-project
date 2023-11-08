@@ -1,88 +1,123 @@
-# Project EPOS
+# Project EPOS - Electronic Point Of Sale System
 
-Epos system for a local convenience store, acting as the main Point of Sale with the ability to scan and sell products to customers, scan and add products to Products Database, pay using cash or card/mobile, and do end of the day accounting, and other common features associated with epos systems.
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Project Status](#project-status)
+- [Features](#features)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+- [Usage](#usage)
+- [Running the Tests](#running-the-tests)
+- [Deployment](#deployment)
+- [Built With](#built-with)
+- [Contributing](#contributing)
+- [Versioning](#versioning)
+- [Authors](#authors)
+- [License](#license)
+- [Acknowledgements](#acknowledgments)
+- [Contact](#contact)
+
+
+## About the Project
+
+The EPOS system is a comprehensive solution for a local convenience store that simplifies transactions, inventory management, payment processing, and daily accounting.
+
+## Project Status
+
+🚧 The project is in planning (as of 8 November 2023)
+
+## Features
+
+* Product scanning and inventory management
+* Multiple payment methods handling (cash, credit/debit card, mobile)
+* Daily financial reporting
+* User-friendly UI with Material Design
+* Responsive design for various device support
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Follow these instructions to set up your local development instance.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Ensure you have the following installed:
+* Node.js
+* npm (comes with Node.js)
+* Docker Desktop
+* Git
+* Visual Studio Code or your preferred IDE
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Clone the repo and navigate into it:
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+```bash
+git clone https://github.com/baberkhanacer/epos-project.git
+cd epos-project
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Install dependencies and start the local server:
 
-## Running the tests
+```bash
+# Install dependencies
+npm install
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
+# Start the development server
+npm start
 ```
 
-### And coding style tests
+## Usage
 
-Explain what these tests test and why
+Once the application is running, you can use the EPOS system by navigating to 'http://localhost:3000' in your browser.
 
-```
-Give an example
+## Running the Tests
+
+Run automated tests using the following command:
+
+```bash
+npm test
 ```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Deployment steps will be added once the application is ready for a production environment.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* React.js - Front-end framework
+* Material UI - UI toolkit
+* Node.js - Backend runtime
+* MongoDB - Database
+* Docker - Containerization
+* Heroku - Deployment
+* Git - Version control
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+We welcome contributions! Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for information on how to get started and submit pull requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use SemVer for versioning. For the available versions, see the [tags on this repository](https://github.com/baberkhanacer/convenience-store-epos/tags).
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Baber Khan** - *Initial work* - [BaberKhanAcer](https://github.com/baberkhanacer)
+* **Shuaib R.** - *Mentor & Contributor* - [ShuaibR](https://github.com/shuaibr)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgements
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to Shuaib R. for mentorship and oversight.
+* Appreciation goes to all contributors and testers of the project.
 
+## Contact
+
+For questions or support, please contact [baberkhanacer](https://github.com/baberkhanacer).
+
+Happy Coding!
