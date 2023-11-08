@@ -86,13 +86,33 @@ Deployment steps will be added once the application is ready for a production en
 
 ## Built With
 
-* React.js - Front-end framework
-* Material UI - UI toolkit
-* Node.js - Backend runtime
-* MongoDB - Database
-* Docker - Containerization
-* Heroku - Deployment
-* Git - Version control
+### Frontend:
+* React.js
+* Material-UI
+* Tailwind (possibly)
+
+### Backend:
+* Node.js
+* Express.js
+* MongoDB
+
+### Authentication and Authorization:
+* Passport.js
+
+### Payments
+* Stripe.js
+
+### Learning Platforms
+* ChatGPT
+* Google Search
+
+### Deployment
+* Heroku
+
+### Dev Tools:
+* VS Code
+* Git + Github
+* Docker
 
 ## Contributing
 
