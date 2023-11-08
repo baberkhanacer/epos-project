@@ -16,7 +16,7 @@
 - [Versioning](#versioning)
 - [Authors](#authors)
 - [License](#license)
-- [Acknowledgements](#acknowledgments)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 
@@ -49,7 +49,7 @@ Ensure you have the following installed:
 * Git
 * Visual Studio Code or your preferred IDE
 
-### Installing
+### Installation
 
 Clone the repo and navigate into it:
 
