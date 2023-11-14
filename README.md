@@ -38,6 +38,24 @@ The EPOS Project is a state-of-the-art retail management solution designed to en
 - **Transaction Processing**: Efficient processing with support for various payment methods.
 - **Business Intelligence**: Insights and reports that help drive business decisions.
 
+## Figma Designs
+
+### Sign In Page
+
+![Sign In Page](/figma-designs/sign-in.png "Sign In Page")
+
+### Dashboard Page
+
+![Dashboard Page](/figma-designs/dashboard.png "Dashboard Page")
+
+### Products Page
+
+![Products Page](/figma-designs/products.png "Products Page")
+
+### Till Page
+
+![Till Page](/figma-designs/till.png "Till Page")
+
 ## Technology Stack
 
 ### Frontend
