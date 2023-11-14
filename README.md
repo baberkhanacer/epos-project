@@ -5,6 +5,11 @@ The EPOS Project is a state-of-the-art retail management solution designed to en
 ## Table of Contents
 
 - [Features](#features)
+- [Figma Designs](#figma-designs)
+    - [Sign In Page](#sign-in-page)
+    - [Dashboard Page](#dashboard-page)
+    - [Products Page](#products-page)
+    - [Till Page](#till-page)
 - [Technology Stack](#technology-stack)
 	- [Frontend](#front-end)
 	- [Backend](#backend)
